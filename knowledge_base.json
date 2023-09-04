@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hey there..."
+    },
+    {
+      "question": "Hey",
+      "answer": "Hi there"
+    },
+    {
+      "question": "Is anyone there?",
+      "answer": "Yes! hello"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi there"
+    },
+    {
+      "question": "Hay",
+      "answer": "Hi there"
+    },
+    {
+      "question": "Bye",
+      "answer": "Bye! Come back again"
+    },
+    {
+      "question": "See you later",
+      "answer": "Bye! Come back again"
+    },
+    {
+      "question": "Goodbye",
+      "answer": "See you later"
+    },
+    {
+      "question": "See ya",
+      "answer": "Have a nice day"
+    },
+    {
+      "question": "Thanks",
+      "answer": "My pleasure"
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're most welcome!"
+    },
+    {
+      "question": "That's helpful",
+      "answer": "Happy to help!"
+    },
+    {
+      "question": "Thanks for the help",
+      "answer": "Any time!"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I.m your bot assistant"
+    },
+    {
+      "question": "What are you?",
+      "answer": "I'm an Artificial Intelligent bot"
+    },
+    {
+      "question": "Who you are?",
+      "answer": "I.m your bot assistant"
+    },
+    {
+      "question": "what is your name",
+      "answer": "I'm Nobita!"
+    },
+    {
+      "question": "What should I call you",
+      "answer": "You can call me Nobita! that's what Priyanshu named me."
+    },
+    {
+      "question": "whats your name?",
+      "answer": "Just call me as Nobita"
+    },
+    {
+      "question": "Could you help me?",
+      "answer": "Tell me how can assist you"
+    },
+    {
+      "question": "give me a hand please",
+      "answer": "Tell me your problem to assist you"
+    },
+    {
+      "question": "Can you help?",
+      "answer": "Tell me how can assist you"
+    },
+    {
+      "question": "What can you do for me?",
+      "answer": "Tell me your problem to assist you"
+    },
+    {
+      "question": "I need a support",
+      "answer": "Tell me how can assist you"
+    },
+    {
+      "question": "I need a help",
+      "answer": "Yes Sure, How can I support you"
+    },
+    {
+      "question": "support me please",
+      "answer": "Yes Sure, How can I support you"
+    },
+    {
+      "question": "I need to create a new account",
+      "answer": "Just go to our web site and follow the guidelines to create a new account"
+    },
+    {
+      "question": "how to open a new account",
+      "answer": "You can just easily create a new account from our web site"
+    },
+    {
+      "question": "I want to create an account",
+      "answer": "You can just easily create a new account from our web site"
+    },
+    {
+      "question": "can you create an account for me",
+      "answer": "Just go to our web site and follow the guidelines to create a new account"
+    },
+    {
+      "question": "how to open a new account",
+      "answer": "You can just easily create a new account from our web site"
+    },
+    {
+      "question": "have a complaint",
+      "answer": "Please provide us your complaint in order to assist you"
+    },
+    {
+      "question": "I want to raise a complaint",
+      "answer": "Please mention your complaint, we will reach you and sorry for any inconvenience caused"
+    },
+    {
+      "question": "there is a complaint about a service",
+      "answer": "Please mention your complaint, we will reach you and sorry for any inconvenience caused"
+    },
+    {
+      "question": "Who is Priyanshu",
+      "answer": "I guess you should have known this...He built me."
+    }
+  ]
+}
